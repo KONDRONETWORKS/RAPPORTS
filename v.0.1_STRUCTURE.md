@@ -23,7 +23,7 @@
 ## 📋 Résumé Exécutif
 
 ### Contexte
-Ce rapport consolide l'analyse de **3 migrations technologiques majeures** dans l'évolution des projets CML (Cisco Modeling Labs) sur une période de 2 ans (2024-2025). Chaque migration a été motivée par des défis de maintenabilité, de performance et d'adaptation aux besoins de l'équipe.
+Ce rapport consolide l'analyse de **3 migrations technologiques majeures** dans l'évolution des projets CML (Cisco Modeling Labs) sur une période de 25 jours (2025). Chaque migration a été motivée par des défis de maintenabilité, de performance et d'adaptation aux besoins de l'équipe.
 
 ### Migrations Analysées
 1. **cml-reservation-system** → **ansible-virl** (FastAPI + React → Flask + Vue.js)
