@@ -198,24 +198,24 @@ graph LR
 
 ```mermaid
 timeline
-    title Roadmap Technologique CML (2025-2027)
+    title Roadmap Technologique CML (2025-2026)
     
     section 2025 Q3-Q4
         Stabilisation cml2    : Optimisation performance
                              : Tests end-to-end
                              : Monitoring avancé
     
-    section 2026 Q1-Q2
+    section  Q1-Q2
         Fonctionnalités IA    : Chatbot intelligent
                              : Recommandations auto
                              : Analytics prédictives
     
-    section 2026 Q3-Q4
+    section 2025 Q3-Q4
         Scalabilité          : Microservices si nécessaire
                              : Load balancing
                              : Cache distribué
     
-    section 2027
+    section 2026
         Innovation           : Intégration nouvelles APIs CML
                              : Mobile app
                              : Real-time collaboration
