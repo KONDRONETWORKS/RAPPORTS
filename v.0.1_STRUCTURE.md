@@ -87,17 +87,17 @@ gantt
 
 ```mermaid
 graph TD
-    A[cml-reservation-system<br/>FastAPI + React] --> B[Analyse Complexité<br/>2 semaines]
-    B --> C[Décision Migration 1<br/>1 semaine]
-    C --> D[ansible-virl<br/>Flask + Vue.js<br/>3 mois]
+    A[cml-reservation-system<br/>FastAPI + React] --> B[Analyse Complexité<br/>10 jours]
+    B --> C[Décision Migration 1<br/>4 jours]
+    C --> D[ansible-virl<br/>Flask + Vue.js<br/>6 jours]
     
     D --> E[Évaluation Performance<br/>2 semaines]
     E --> F[Décision Migration 2<br/>1 semaine]
-    F --> G[cml_nest_vue<br/>NestJS + Vue.js 3<br/>4 mois]
+    F --> G[cml_nest_vue<br/>NestJS + Vue.js 3<br/>5 jours]
     
     G --> H[Analyse Over-engineering<br/>2 semaines]
     H --> I[Décision Migration 3<br/>1 semaine]
-    I --> J[cml2<br/>FastAPI + React<br/>2 mois]
+    I --> J[cml2<br/>FastAPI + React<br/>5 jours]
     
     J --> K[Stabilisation<br/>1 mois]
     K --> L[Production<br/>Ongoing]
